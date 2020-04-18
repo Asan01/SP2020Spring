@@ -12,4 +12,4 @@ Implementation will show us:
 
 5)List of users in the system
 
-I was able to implement everything except Hard disk usage info unfortunately. The code worked fine, but yesterday night I installed several libraries and dependancies and in addition there was some update that was not installed properly. Maybe this was the reason code had troubles being executed, in addition I can no longer access terminal for some reason..
+I was able to implement everything except Hard disk usage info unfortunately.
